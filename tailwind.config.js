@@ -22,14 +22,15 @@ module.exports = {
       },
       
       margin:{
-        '5000px' : '1200px',
+        '5000px' : '0px',
         '1000px' : '1000px',
         '493px' : '493px',
         '180px' :  '180px'
       },
       width:{
         '1081px' : '1081px',
-        '350px' : '350px'
+        '350px' : '350px',
+        '716px' : '716px'
       },
       height:{
         '1287px' :  '1287px',
@@ -41,7 +42,8 @@ module.exports = {
         '800px' : '800px'
       },
       minWidth:{
-        '900px' : '900px'
+        '900px' : '900px',
+        '716px' : '716px'
       },
       backdropBlur:{
         '200px' : '200px'

@@ -1,17 +1,18 @@
 .ellipse1 {
+  position:absolute;
   width: 1081px;
   height: 1287px;
   left: -200px;
   top: -180px;
 }
 
-.ellipse2 {
+/* .ellipse2 {
   position: absolute;
   width: 716px;
   height: 716px;
   left: 801px;
   top: -218px;
-}
+} */
 
 .ellipse3 {
   position: absolute;
